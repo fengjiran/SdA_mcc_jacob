@@ -208,8 +208,10 @@ class SdA(object):
         pretrain_fns = []
         for dA in self.dA_layers:
             # get the cost and the updates list
-            cost, updates = dA.get_cost_updates(corruption_level,
-                                                learning_rate)
+            cost, updates = dA.get_cost_updates(contraction_level = 0.1,
+                                                corruption_level = corruption_level,
+                                                learning_rate = learning_rate,
+                                                sigma = 0.5)
             # compile the theano function
             fn = theano.function(
                 inputs=[

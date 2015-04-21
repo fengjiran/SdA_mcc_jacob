@@ -1,0 +1,191 @@
+Using gpu device 0: GeForce 710M
+... loading data
+... building the model
+... getting the pretraining functions
+DEBUG: nvcc STDOUT mod.cu
+
+   正在创建库 C:/Users/LENOVO/AppData/Local/Theano/compiledir_Windows-7-6.1.7601-SP1-Intel64_Family_6_Model_60_Stepping_3_GenuineIntel-2.7.9-32/tmpmilxn4/dac98c482bb121006a86a2d80236de22.lib 和对象 C:/Users/LENOVO/AppData/Local/Theano/compiledir_Windows-7-6.1.7601-SP1-Intel64_Family_6_Model_60_Stepping_3_GenuineIntel-2.7.9-32/tmpmilxn4/dac98c482bb121006a86a2d80236de22.exp
+
+
+DEBUG: nvcc STDOUT mod.cu
+
+   正在创建库 C:/Users/LENOVO/AppData/Local/Theano/compiledir_Windows-7-6.1.7601-SP1-Intel64_Family_6_Model_60_Stepping_3_GenuineIntel-2.7.9-32/tmptxsisf/a9c0579d5954844f20203dc358cbfebb.lib 和对象 C:/Users/LENOVO/AppData/Local/Theano/compiledir_Windows-7-6.1.7601-SP1-Intel64_Family_6_Model_60_Stepping_3_GenuineIntel-2.7.9-32/tmptxsisf/a9c0579d5954844f20203dc358cbfebb.exp
+
+
+DEBUG: nvcc STDOUT mod.cu
+
+   正在创建库 C:/Users/LENOVO/AppData/Local/Theano/compiledir_Windows-7-6.1.7601-SP1-Intel64_Family_6_Model_60_Stepping_3_GenuineIntel-2.7.9-32/tmp593bkl/56fa5e48432580e9b6d6aed08089290e.lib 和对象 C:/Users/LENOVO/AppData/Local/Theano/compiledir_Windows-7-6.1.7601-SP1-Intel64_Family_6_Model_60_Stepping_3_GenuineIntel-2.7.9-32/tmp593bkl/56fa5e48432580e9b6d6aed08089290e.exp
+
+
+DEBUG: nvcc STDOUT mod.cu
+
+   正在创建库 C:/Users/LENOVO/AppData/Local/Theano/compiledir_Windows-7-6.1.7601-SP1-Intel64_Family_6_Model_60_Stepping_3_GenuineIntel-2.7.9-32/tmp829l0f/d8621a1007a4dc5090169c67138dcace.lib 和对象 C:/Users/LENOVO/AppData/Local/Theano/compiledir_Windows-7-6.1.7601-SP1-Intel64_Family_6_Model_60_Stepping_3_GenuineIntel-2.7.9-32/tmp829l0f/d8621a1007a4dc5090169c67138dcace.exp
+
+
+DEBUG: nvcc STDOUT mod.cu
+
+   正在创建库 C:/Users/LENOVO/AppData/Local/Theano/compiledir_Windows-7-6.1.7601-SP1-Intel64_Family_6_Model_60_Stepping_3_GenuineIntel-2.7.9-32/tmpjqtekm/76e105497906550b2a2b7f500ecedd14.lib 和对象 C:/Users/LENOVO/AppData/Local/Theano/compiledir_Windows-7-6.1.7601-SP1-Intel64_Family_6_Model_60_Stepping_3_GenuineIntel-2.7.9-32/tmpjqtekm/76e105497906550b2a2b7f500ecedd14.exp
+
+
+DEBUG: nvcc STDOUT mod.cu
+
+   正在创建库 C:/Users/LENOVO/AppData/Local/Theano/compiledir_Windows-7-6.1.7601-SP1-Intel64_Family_6_Model_60_Stepping_3_GenuineIntel-2.7.9-32/tmpvhimqe/f1fdeab7fd1baedbd21136e0ba16c878.lib 和对象 C:/Users/LENOVO/AppData/Local/Theano/compiledir_Windows-7-6.1.7601-SP1-Intel64_Family_6_Model_60_Stepping_3_GenuineIntel-2.7.9-32/tmpvhimqe/f1fdeab7fd1baedbd21136e0ba16c878.exp
+
+
+DEBUG: nvcc STDOUT mod.cu
+
+   正在创建库 C:/Users/LENOVO/AppData/Local/Theano/compiledir_Windows-7-6.1.7601-SP1-Intel64_Family_6_Model_60_Stepping_3_GenuineIntel-2.7.9-32/tmprzlmtr/fbfb03b6a09e602bdb9149a20c4091e7.lib 和对象 C:/Users/LENOVO/AppData/Local/Theano/compiledir_Windows-7-6.1.7601-SP1-Intel64_Family_6_Model_60_Stepping_3_GenuineIntel-2.7.9-32/tmprzlmtr/fbfb03b6a09e602bdb9149a20c4091e7.exp
+
+
+... pre-training the model
+Pre-training layer 0, epoch 0, cost  -740.784
+Pre-training layer 0, epoch 1, cost  -753.554
+Pre-training layer 0, epoch 2, cost  -756.709
+Pre-training layer 0, epoch 3, cost  -758.561
+Pre-training layer 0, epoch 4, cost  -759.889
+Pre-training layer 0, epoch 5, cost  -760.726
+Pre-training layer 0, epoch 6, cost  -761.376
+Pre-training layer 0, epoch 7, cost  -762.292
+Pre-training layer 0, epoch 8, cost  -763.028
+Pre-training layer 0, epoch 9, cost  -763.411
+Pre-training layer 0, epoch 10, cost  -763.731
+Pre-training layer 0, epoch 11, cost  -764.003
+Pre-training layer 0, epoch 12, cost  -764.245
+Pre-training layer 0, epoch 13, cost  -764.45
+Pre-training layer 0, epoch 14, cost  -764.652
+Pre-training layer 1, epoch 0, cost  -178.095
+Pre-training layer 1, epoch 1, cost  -184.02
+Pre-training layer 1, epoch 2, cost  -185.365
+Pre-training layer 1, epoch 3, cost  -186.063
+Pre-training layer 1, epoch 4, cost  -186.542
+Pre-training layer 1, epoch 5, cost  -186.866
+Pre-training layer 1, epoch 6, cost  -187.139
+Pre-training layer 1, epoch 7, cost  -187.343
+Pre-training layer 1, epoch 8, cost  -187.526
+Pre-training layer 1, epoch 9, cost  -187.699
+Pre-training layer 1, epoch 10, cost  -187.833
+Pre-training layer 1, epoch 11, cost  -187.946
+Pre-training layer 1, epoch 12, cost  -188.072
+Pre-training layer 1, epoch 13, cost  -188.175
+Pre-training layer 1, epoch 14, cost  -188.295
+Pre-training layer 2, epoch 0, cost  -182.857
+Pre-training layer 2, epoch 1, cost  -187.279
+Pre-training layer 2, epoch 2, cost  -188.584
+Pre-training layer 2, epoch 3, cost  -189.266
+Pre-training layer 2, epoch 4, cost  -189.737
+Pre-training layer 2, epoch 5, cost  -190.029
+Pre-training layer 2, epoch 6, cost  -190.238
+Pre-training layer 2, epoch 7, cost  -190.397
+Pre-training layer 2, epoch 8, cost  -190.528
+Pre-training layer 2, epoch 9, cost  -190.634
+Pre-training layer 2, epoch 10, cost  -190.734
+Pre-training layer 2, epoch 11, cost  -190.791
+Pre-training layer 2, epoch 12, cost  -190.864
+Pre-training layer 2, epoch 13, cost  -190.969
+Pre-training layer 2, epoch 14, cost  -191.018
+... getting the finetuning functions
+The pretraining code for file SdA.py ran for 110.71m
+... finetunning the model
+epoch 1, minibatch 50000/50000, validation error 5.240000 %
+     epoch 1, minibatch 50000/50000, test error of best model 5.760000 %
+epoch 2, minibatch 50000/50000, validation error 3.620000 %
+     epoch 2, minibatch 50000/50000, test error of best model 4.230000 %
+epoch 3, minibatch 50000/50000, validation error 3.560000 %
+     epoch 3, minibatch 50000/50000, test error of best model 4.170000 %
+epoch 4, minibatch 50000/50000, validation error 4.020000 %
+epoch 5, minibatch 50000/50000, validation error 3.040000 %
+     epoch 5, minibatch 50000/50000, test error of best model 3.010000 %
+epoch 6, minibatch 50000/50000, validation error 3.210000 %
+epoch 7, minibatch 50000/50000, validation error 2.970000 %
+     epoch 7, minibatch 50000/50000, test error of best model 3.470000 %
+epoch 8, minibatch 50000/50000, validation error 2.590000 %
+     epoch 8, minibatch 50000/50000, test error of best model 2.730000 %
+epoch 9, minibatch 50000/50000, validation error 2.700000 %
+epoch 10, minibatch 50000/50000, validation error 2.510000 %
+     epoch 10, minibatch 50000/50000, test error of best model 2.850000 %
+epoch 11, minibatch 50000/50000, validation error 2.560000 %
+epoch 12, minibatch 50000/50000, validation error 2.560000 %
+epoch 13, minibatch 50000/50000, validation error 2.630000 %
+epoch 14, minibatch 50000/50000, validation error 2.510000 %
+epoch 15, minibatch 50000/50000, validation error 2.780000 %
+epoch 16, minibatch 50000/50000, validation error 2.580000 %
+epoch 17, minibatch 50000/50000, validation error 2.730000 %
+epoch 18, minibatch 50000/50000, validation error 2.670000 %
+epoch 19, minibatch 50000/50000, validation error 2.330000 %
+     epoch 19, minibatch 50000/50000, test error of best model 2.320000 %
+epoch 20, minibatch 50000/50000, validation error 2.250000 %
+     epoch 20, minibatch 50000/50000, test error of best model 2.380000 %
+epoch 21, minibatch 50000/50000, validation error 2.710000 %
+epoch 22, minibatch 50000/50000, validation error 2.720000 %
+epoch 23, minibatch 50000/50000, validation error 2.550000 %
+epoch 24, minibatch 50000/50000, validation error 2.230000 %
+     epoch 24, minibatch 50000/50000, test error of best model 2.370000 %
+epoch 25, minibatch 50000/50000, validation error 2.750000 %
+epoch 26, minibatch 50000/50000, validation error 2.530000 %
+epoch 27, minibatch 50000/50000, validation error 2.440000 %
+epoch 28, minibatch 50000/50000, validation error 2.620000 %
+epoch 29, minibatch 50000/50000, validation error 2.320000 %
+epoch 30, minibatch 50000/50000, validation error 2.440000 %
+epoch 31, minibatch 50000/50000, validation error 2.230000 %
+epoch 32, minibatch 50000/50000, validation error 2.510000 %
+epoch 33, minibatch 50000/50000, validation error 2.290000 %
+epoch 34, minibatch 50000/50000, validation error 2.060000 %
+     epoch 34, minibatch 50000/50000, test error of best model 2.150000 %
+epoch 35, minibatch 50000/50000, validation error 2.270000 %
+epoch 36, minibatch 50000/50000, validation error 2.360000 %
+epoch 37, minibatch 50000/50000, validation error 2.120000 %
+epoch 38, minibatch 50000/50000, validation error 2.100000 %
+epoch 39, minibatch 50000/50000, validation error 2.010000 %
+     epoch 39, minibatch 50000/50000, test error of best model 1.960000 %
+epoch 40, minibatch 50000/50000, validation error 1.950000 %
+     epoch 40, minibatch 50000/50000, test error of best model 1.900000 %
+epoch 41, minibatch 50000/50000, validation error 1.950000 %
+epoch 42, minibatch 50000/50000, validation error 1.950000 %
+epoch 43, minibatch 50000/50000, validation error 1.950000 %
+epoch 44, minibatch 50000/50000, validation error 1.930000 %
+     epoch 44, minibatch 50000/50000, test error of best model 1.900000 %
+epoch 45, minibatch 50000/50000, validation error 1.950000 %
+epoch 46, minibatch 50000/50000, validation error 1.950000 %
+epoch 47, minibatch 50000/50000, validation error 1.950000 %
+epoch 48, minibatch 50000/50000, validation error 1.950000 %
+epoch 49, minibatch 50000/50000, validation error 1.950000 %
+epoch 50, minibatch 50000/50000, validation error 1.940000 %
+epoch 51, minibatch 50000/50000, validation error 1.950000 %
+epoch 52, minibatch 50000/50000, validation error 1.960000 %
+epoch 53, minibatch 50000/50000, validation error 1.960000 %
+epoch 54, minibatch 50000/50000, validation error 1.980000 %
+epoch 55, minibatch 50000/50000, validation error 1.980000 %
+epoch 56, minibatch 50000/50000, validation error 1.970000 %
+epoch 57, minibatch 50000/50000, validation error 1.980000 %
+epoch 58, minibatch 50000/50000, validation error 1.970000 %
+epoch 59, minibatch 50000/50000, validation error 1.970000 %
+epoch 60, minibatch 50000/50000, validation error 1.980000 %
+epoch 61, minibatch 50000/50000, validation error 1.980000 %
+epoch 62, minibatch 50000/50000, validation error 1.980000 %
+epoch 63, minibatch 50000/50000, validation error 1.970000 %
+epoch 64, minibatch 50000/50000, validation error 1.960000 %
+epoch 65, minibatch 50000/50000, validation error 1.970000 %
+epoch 66, minibatch 50000/50000, validation error 1.980000 %
+epoch 67, minibatch 50000/50000, validation error 1.970000 %
+epoch 68, minibatch 50000/50000, validation error 1.970000 %
+epoch 69, minibatch 50000/50000, validation error 1.970000 %
+epoch 70, minibatch 50000/50000, validation error 1.970000 %
+epoch 71, minibatch 50000/50000, validation error 1.970000 %
+epoch 72, minibatch 50000/50000, validation error 1.980000 %
+epoch 73, minibatch 50000/50000, validation error 1.980000 %
+epoch 74, minibatch 50000/50000, validation error 1.980000 %
+epoch 75, minibatch 50000/50000, validation error 1.980000 %
+epoch 76, minibatch 50000/50000, validation error 1.980000 %
+epoch 77, minibatch 50000/50000, validation error 1.980000 %
+epoch 78, minibatch 50000/50000, validation error 1.980000 %
+epoch 79, minibatch 50000/50000, validation error 1.970000 %
+epoch 80, minibatch 50000/50000, validation error 1.970000 %
+epoch 81, minibatch 50000/50000, validation error 1.970000 %
+epoch 82, minibatch 50000/50000, validation error 1.970000 %
+epoch 83, minibatch 50000/50000, validation error 1.970000 %
+epoch 84, minibatch 50000/50000, validation error 1.970000 %
+epoch 85, minibatch 50000/50000, validation error 1.970000 %
+epoch 86, minibatch 50000/50000, validation error 1.970000 %
+epoch 87, minibatch 50000/50000, validation error 1.970000 %
+Optimization complete with best validation score of 1.930000 %, on iteration 2200000, with test performance 1.900000 %
+The training code for file SdA.py ran for 148.28m
