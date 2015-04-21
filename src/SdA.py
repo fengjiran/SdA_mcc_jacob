@@ -367,7 +367,7 @@ def test_SdA(finetune_lr=0.1, pretraining_epochs=15,
     sda = SdA(
         numpy_rng=numpy_rng,
         n_ins=28 * 28,
-        hidden_layers_sizes=[100, 100, 100],
+        hidden_layers_sizes=[200, 200, 100],
         n_outs=10
     )
     # end-snippet-3 start-snippet-4
@@ -381,7 +381,7 @@ def test_SdA(finetune_lr=0.1, pretraining_epochs=15,
     print '... pre-training the model'
     start_time = time.clock()
     ## Pre-train layer-wise
-    corruption_levels = [.1, .2, .3]
+    corruption_levels = [.2, .3, .4]
     for i in xrange(sda.n_layers):
         # go through pretraining epochs
         for epoch in xrange(pretraining_epochs):
